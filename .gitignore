@@ -1,10 +1,4 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-.idea/
-.env
-*.secret.sql
-# Downloaded course content stays in Snowflake, not in the repository.
-*.pdf
-*.png
 *.mp4
+*.mov
+*.avi
+.DS_Store
