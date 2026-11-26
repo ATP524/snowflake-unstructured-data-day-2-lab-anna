@@ -7,3 +7,4 @@ __pycache__/
 # Downloaded course content stays in Snowflake, not in the repository.
 *.pdf
 *.png
+*.mp4
