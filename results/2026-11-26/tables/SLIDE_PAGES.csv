@@ -1,0 +1,932 @@
+"SLIDE_ID","DECK_ID","LESSON_ID","LESSON_SLUG","LESSON_TITLE","SOURCE_FILENAME","SOURCE_URL","STAGE_PATH","SHA256","PDF_TITLE","PDF_AUTHOR","PDF_CREATED_AT","PAGE_COUNT","PAGE_INDEX","PAGE_NUMBER","CONTENT"
+"1259d2079a8b8cdb:p001","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","0","1","# DataExpert.io
+## Senior AI Analytics
+### Engineering Boot Camp
+#### Kick off
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p002","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","1","2","Welcome to an intense 5 weeks!
+
+You will learn a lot over the next 5 weeks!
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p003","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","2","3","# What we will cover today
+
+- Why you made a great decision joining this program
+- How to get the most out of this boot camp
+- Curricula
+- Boot camp structure
+- Capstone Project
+- Policies and Structures
+
+![img-0.jpeg](img-0.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p004","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","3","4","# Why you made a great decision joining this program
+
+→ We take learning seriously here at DataExpert.io
+
+→ You joined a community not only for the next 5 weeks but at least for a year
+- We aren’t just learning theory in this boot camp, we are building AI agents with CoCo on Snowflake that are **PRODUCTION READY AND DEPLOYED**
+- We will have Q&amp;A sessions with industry leaders throughout the boot camp
+- We will have TA Office hours to answer all your questions
+
+![img-1.jpeg](img-1.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p005","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","4","5","# Our Guest Speakers
+
+![img-2.jpeg](img-2.jpeg)
+Shubham Srivastava
+Nov 18th
+
+![img-3.jpeg](img-3.jpeg)
+Joe Reis
+Nov 25th
+
+![img-4.jpeg](img-4.jpeg)
+Madison Schott
+Dec 2th
+
+![img-5.jpeg](img-5.jpeg)
+Sai Bysani
+Dec 9th
+
+![img-6.jpeg](img-6.jpeg)
+Dec 16th
+
+![img-7.jpeg](img-7.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p006","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","5","6","# How to get the most out of this boot camp
+
+→ If you follow these principles, you’ll find this experience to be life changing
+
+- For all attendees:
+- Ask questions and be social, we’re here to make friends!
+- Attend the lectures and do the homework
+- Build pipelines on the infrastructure we give you
+
+- For the “try hard” attendees:
+- Post about your learnings on LinkedIn (single slides and summaries are totally okay to post!)
+- Give your full effort on the capstone project
+
+![img-8.jpeg](img-8.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p007","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","6","7","# How study groups work
+
+→ You're going to be grouped together based on timezone. You should be in a group of 3 to 6 students (update at /profile!)
+→ This group of people should be the FIRST people you ask questions to before TAs and definitely before Zach
+→ We learn together here at DataExpert
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p008","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","7","8","→
+
+# Curricula
+
+|  Module | Content  |
+| --- | --- |
+|  Week 1 (Nov 16^{th} - Nov 20^{th}) | Unstructured Data Modeling on Snowflake  |
+|  Week 2 (Nov 23^{rd} - Nov 27^{th}) | Building with Snowflake CoCo Agents  |
+|  Week 3 (Nov 30^{th} - Dec 4^{th}) | Scaling Airflow DAGs in Production  |
+|  Week 4 (Dec 7^{th} - Dec 11^{th}) | dbt Fundamentals & Data Quality  |
+|  Week 5 (Dec 14^{th} - Dec 18^{th}) | Advanced dbt, AI & Semantic Layer  |
+
+- All the classes will be recorded and uploaded within a few hours of the live class
+- You will have a choice to either attend the classes live or watch the recordings
+- All the infra setup instructions will be shared before the labs
+- Please go to Discord **senior-ai-analytics-engineer-boot-camp-nov-2026 stage for Live Classes**
+- Please go to /dashboard and select **Senior AI Analytics Engineer Boot Camp** from the programs to access all the recording to the live classes and pre-recorded content
+
+![img-9.jpeg](img-9.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p009","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","8","9","# Schedule
+
+|  Days | Monday | Tuesday | Wednesday | Thursday | Friday  |
+| --- | --- | --- | --- | --- | --- |
+|  Week 1,3-5 | No class | TA Office Hour 7:30am - 8:30am PST Class 6pm - 8pm PST | Tech Talk 5pm - 6pm PST Q&A with Zach 6pm - 7pm PST | TA Office Hour 6pm - 7pm PST Class 6pm - 8pm pst | No class  |
+|  Thanksgiving Week | No class | TA Office Hour 7:30am - 8:30am PST | Tech Talk 5pm - 6pm PST Q&A with Zach 6pm - 7pm PST | No Class | No Class  |
+
+![img-10.jpeg](img-10.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p010","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","9","10","→
+
+# How to Submit Homework
+
+|  Assignments | Deadline  |
+| --- | --- |
+|  Unstructured Data Modeling on Snowflake | Due Date - November 29^{th}  |
+|  Building with Snowflake CoCo Agents | Due Date - December 6^{th}  |
+|  Scaling Airflow DAGs in Production | Due Date - December 13^{th} Capstone Concept also due  |
+|  dbt Fundamentals & Data Quality | Due Date - December 20^{th}  |
+|  Advanced dbt, AI & Semantic Layer | Due Date - December 27^{th}  |
+|  Capstone Project | Due Date - December 27^{th}  |
+
+→ Homework is published every Friday and is due on the following Friday
+→ Submit your work on dataexpert.io
+→ Create a zip file of your work and upload the file
+→ Grades are pass or fail, used solely for certification.
+
+![img-11.jpeg](img-11.jpeg)"
+"1259d2079a8b8cdb:p011","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","10","11","# Capstone Project
+
+→ If you have an idea, it will need the following areas:
+- A frontend, quality controls, documentation, and agentic actions
+
+→ Capstones will need to have a screenshot of them running in the cloud!
+
+→ Capstone proposal deliverable at end of Week 3, a conceptual design of the Snowflake AI agent
+
+→ Capstone Project due date: December 27th 11:59PM PST
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p012","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","11","12","# Boot camp rewards
+
+→
+
+## Top 3 individual projects:
+
+- LinkedIn recommendation from Zach
+- Lifetime access to the DataExpert content library
+- 1:1 opportunity to showcase the project to Databricks
+
+Top three community engagers get: LinkedIn recommendation from me
+
+The three categories for community engagement are:
+
+- most helpful, most funny, highest volume
+
+![img-12.jpeg](img-12.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p013","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","12","13","→
+
+# Policies and Structures
+
+Attendance Policy: For your attendance to be counted you either need to attend the lectures live or watch the recorded lectures.
+
+## Certification Policy:
+
+**Excellence Certification:**
+- ☑ Attend 90% of lectures (or make them up by watching videos)
+- ☑ Complete 4 out of 5 assignments.
+
+**Attendee Certification:**
+- ☑ Attend 90% of lectures (or make them up by watching videos)
+
+**Superb Certification:**
+- ☑ Get the combined Excellence certification
+- ☑ Deliver a high-quality capstone project!
+
+![img-13.jpeg](img-13.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p014","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","13","14","# Refund Policy
+
+→
+
+## Refund Policy
+
+- Requests made **within one week after purchase** will incur a 25% processing fee.
+- Requests made **within two weeks after purchase** will incur a 50% processing fee.
+- No refunds will be issued **after 14 days**
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p015","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","14","15","# Meet Our Team
+
+![img-14.jpeg](img-14.jpeg)
+Zach Wilson
+@eczachly
+
+![img-15.jpeg](img-15.jpeg)
+Bruno Lima
+
+## Instructors
+
+![img-16.jpeg](img-16.jpeg)
+Riya Bhurse
+
+![img-17.jpeg](img-17.jpeg)
+Aditya Gusain
+
+## Full Stack Developers
+
+![img-18.jpeg](img-18.jpeg)
+
+DataExpert.io Presentation"
+"1259d2079a8b8cdb:p016","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","15","16","# Meet Our TAs
+
+![img-19.jpeg](img-19.jpeg)
+
+Raghavendra Yama
+
+@poet_ry
+
+![img-20.jpeg](img-20.jpeg)
+
+Rahul Sangwan
+
+@isangwanrahul
+
+DataExpert.io Presentation
+
+3"
+"1259d2079a8b8cdb:p017","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","16","17","The best minute is last minute
+
+→
+
+# THERE IS STILL TIME TO JOIN!
+
+Today at 11:59 PM Pacific is the absolute last moment you can sign up for this!
+
+DataExpert.io Presentation
+
+^{}[]"
+"1259d2079a8b8cdb:p018","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","17","18","→
+
+# Any questions?
+
+DataExpert.io Presentation
+
+^{}[]"
+"1259d2079a8b8cdb:p019","1259d2079a8b8cdb","3325","kickoff-nov26","Kick off","senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3325/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","kickoff-nov26/1259d2079a8b8cdb/senior_ai_analytics_engineering_boot_camp_starting_nov_16th.pdf","1259d2079a8b8cdb391e4200572de4804af02af003478e3db0f71aa49ec46f9a","Senior AI Analytics Engineering Boot Camp starting Nov 16th","Zach Wilson","2026-11-17 04:28:46.000000000 Z","19","18","19","Let's get started with Onboarding!
+
+DataExpert.io Presentation"
+"179dec60040446a4:p001","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","0","1","The Birth of Context Engineering
+
+Day 2
+
+Zach Wilson's DataExpert.io Boot Camp
+
+![img-0.jpeg](img-0.jpeg)
+
+![img-1.jpeg](img-1.jpeg)"
+"179dec60040446a4:p002","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","1","2","# What we’ll cover today
+
+- Why data engineering is becoming context engineering
+- What are the different types of context?
+- How to create rich contexts from unstructured data
+- How vectors fit into all of this
+- How to optimize your vectors and create multi-modal vectors
+
+![img-2.jpeg](img-2.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p003","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","2","3","→
+
+# Data Engineering is turning into Context Engineering!
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"179dec60040446a4:p004","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","3","4","# How are data and context different?
+
+→
+
+- Code is cheap, context is expensive
+- AI can write pipelines, but it can't infer business intent, edge cases, or data meaning without you.
+- Schemas ≠ semantics
+- Data engineers define why data exists, not just how it's stored.
+- Data quality is contextual, not absolute
+- “correct” depends on downstream use, latency tolerance, and decision impact.
+
+![img-3.jpeg](img-3.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p005","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","4","5","→
+
+# How are data and context different?
+
+- Pipelines are becoming conversations
+- Humans provide guardrails, assumptions, and constraints; AI fills in the mechanics.
+- The leverage shift
+- Engineers who understand domain, incentives, and failure modes outperform those who only ship code.
+
+Zach Wilson's DataExpert.io Boot Camp
+
+#"
+"179dec60040446a4:p006","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","5","6","# The old world
+
+![img-4.jpeg](img-4.jpeg)
+Disparate Data sources
+
+![img-5.jpeg](img-5.jpeg)
+Data engineer builds pipeline in weeks
+
+![img-6.jpeg](img-6.jpeg)
+Analyst looks at clean data at 9 AM
+
+![img-7.jpeg](img-7.jpeg)
+
+![img-8.jpeg](img-8.jpeg)
+
+Insights MIGHT produce money through increased revenue or reduced cost
+
+![img-9.jpeg](img-9.jpeg)
+
+zach Wilson's DataExpert.io Boot Camp
+
+many many weeks"
+"179dec60040446a4:p007","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","6","7","# The New World (shift left)
+
+![img-10.jpeg](img-10.jpeg)
+Disparate Data sources
+
+![img-11.jpeg](img-11.jpeg)
+Data engineer prompts pipelines into existence
+
+![img-12.jpeg](img-12.jpeg)
+AI Agent continuously looks at data and context
+
+![img-13.jpeg](img-13.jpeg)
+MCP Actions DO produce money through increased revenue or reduced cost
+
+![img-14.jpeg](img-14.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp
+
+days or single did weeks"
+"179dec60040446a4:p008","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","7","8","→
+
+# Data no longer is treated like a book that only has value if we look at it!
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"179dec60040446a4:p009","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","8","9","What are the different types of context?
+
+→
+
+- Business
+- Organizational
+- Semantic
+- Quality and Trust
+- AI Context
+
+Zach Wilson's DataExpert.io Boot Camp
+
+#"
+"179dec60040446a4:p010","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","9","10","# Business Context
+
+→
+
+- What **problem the data exists to solve**.
+- Who **uses this data** and for what decision
+- What **good vs bad outcomes** look like
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"179dec60040446a4:p011","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","10","11","# Organizational Context
+
+→
+
+- Who owns what
+- Review, deploy, and rollback norms
+- Political constraints
+- What will break trust if changed silently
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"179dec60040446a4:p012","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","11","12","# Semantic Context
+
+→
+
+- Definitions of entities (""user"", ""order"", ""active"", ""revenue"")
+- Valid vs invalid states
+- Time semantics (e.g. event time vs processing time)
+- Edge cases that are normal in the domain but look like bugs
+
+Zach Wilson's DataExpert.io Boot Camp
+
+→"
+"179dec60040446a4:p013","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","12","13","# Quality &amp; Trust
+
+→
+
+- Freshness expectations
+- Acceptable error rates
+- Known blind spots and failure modes
+- Which sources are authoritative vs “best effort”
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"179dec60040446a4:p014","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","13","14","# AI Context
+
+→
+
+- Input assumptions and constraints
+- Retrieval vs generation boundaries
+- Ground truth vs probabilistic output
+- Where hallucination is acceptable vs catastrophic
+
+![img-15.jpeg](img-15.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p015","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","14","15","# AI context - Inputs
+
+Rule: If a human would ask a clarifying question, the model will hallucinate instead.
+
+BAD
+{
+""revenue"": 12000
+}
+
+GOOD
+{
+""revenue_usd_gross"": 12000,
+""period"": ""2025-Q1"",
+""recognition_basis"": ""accrual""
+}
+
+![img-16.jpeg](img-16.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p016","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","15","16","# AI Input thrives under constraints!
+
+![img-17.jpeg](img-17.jpeg)
+
+BAD
+
+{ ""question"": ""analyze churn"" }
+
+GOOD
+
+""question"": ""Analyze churn"",
+
+""scope"": {
+
+""product"": ""DataExpert Pro"",
+
+""region"": ""US"",
+
+""customer_type"": ""paid"",
+
+""time_window"": ""2024-10-01 → 2025-01-01""
+
+}
+
+}
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p017","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","16","17","# Retrieval vs Generation boundaries
+
+→
+
+- Retrieval is where **TRUTH IS SELECTED**
+- Deterministic
+- High quality
+- Explainable
+- Generation is for **summarizing, rephrasing or connecting truth!**
+- Scoped
+- Reliable
+
+![img-18.jpeg](img-18.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p018","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","17","18","→
+
+# Example RAG from DataExpert.io
+
+![img-19.jpeg](img-19.jpeg)
+
+![img-20.jpeg](img-20.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p019","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","18","19","# How to create rich contexts with unstructured data
+
+→
+
+- Context is tricky
+- It can’t be too big or too small
+- Using WHERE value = ‘<value>’ doesn’t work
+- People can use synonyms
+- They can say “the first black president” or “Obama” or “oBaMA”
+- We need to capture MEANING, not exact words!
+
+![img-21.jpeg](img-21.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp</value>"
+"179dec60040446a4:p020","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","19","20","# Right sizing your context!
+
+→
+
+- For “structured” documents (i.e. PDFs, reports, etc)
+- the paragraph is almost always the best unit
+- For “unstructured” documents (i.e. conversations)
+- the chunk with overlap is almost always the best
+- Overlap prevents ideas from being prematurely truncated
+
+Zach Wilson's DataExpert.io Boot Camp
+
+#"
+"179dec60040446a4:p021","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","20","21","# How to capture meaning?
+
+Vectors store meaning as vector embeddings of varying sizes
+
+![img-22.jpeg](img-22.jpeg)
+
+![img-23.jpeg](img-23.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p022","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","21","22","# Vector search optimize for one metric!
+
+→
+
+There are essentially two choices here:
+
+- cosine similarity (better suited for text)
+- Focuses on angular similarity (are the vectors pointed the same way)
+- euclidean distance (better suited for images and video)
+- Focuses on absolute distance (how far apart are these vectors)
+
+![img-24.jpeg](img-24.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p023","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","22","23","# Vector databases optimize for one metric!
+
+$\rightarrow$
+
+![img-25.jpeg](img-25.jpeg)
+Cosine Distance
+
+![img-26.jpeg](img-26.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p024","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","23","24","Without an index, the vector match has to scan everything!
+
+→
+
+Most vector databases (including Snowflake) use a type of ANN indices (approximate nearest neighbors)
+
+- Snowflake might use HNSW (although it's not published what they actually use!)
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"179dec60040446a4:p025","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","24","25","# How does HSNW work?
+
+![img-27.jpeg](img-27.jpeg)
+
+![img-28.jpeg](img-28.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"179dec60040446a4:p026","179dec60040446a4","3390","unstructureddatamodelingonsnowflakeday2lecture-nov26","Unstructured Data Modeling on Snowflake Day 2 Lecture","w1d2.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3390/w1d2.pdf","unstructureddatamodelingonsnowflakeday2lecture-nov26/179dec60040446a4/w1d2.pdf","179dec60040446a4987bfa0d1993287edc782f10b489e37b7cf4759c7198e755","Cortex Snowflake Day 2","Zach Wilson","2026-11-19 22:47:41.000000000 Z","26","25","26","Let’s start the workshop!
+
+- After a 15-minute break,
+- We’ll do a workshop on vectorization, chunking and RAG using Cortex
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p001","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","0","1","# Unstructured Data
+
+Day 1
+
+![img-0.jpeg](img-0.jpeg)
+
+![img-1.jpeg](img-1.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p002","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","1","2","→
+
+# There is 1 billion Terabytes of data in the world!
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"7dfc688d47438413:p003","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","2","3","![img-2.jpeg](img-2.jpeg)
+
+![img-3.jpeg](img-3.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p004","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","3","4","What is giving the rise of each type of data?
+
+Unstructured:
+- Everybody and their dog has a phone
+- 35 million TikToks are uploaded EVERY SINGLE DAY
+- Increased mass surveillance
+- Every big tech company is listening to every conversation
+
+![img-4.jpeg](img-4.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p005","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","4","5","What is giving the rise of each type of data?
+
+Semi structured data:
+- IoT sensors are spitting out tons of semi-structured data
+- LLMs allow us to convert unstructured data into semi-structured data
+- JSON APIs are the de-facto standard of the internet
+
+![img-5.jpeg](img-5.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p006","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","5","6","What is giving the rise of each type of data?
+
+Structured data:
+- Is growing more slowly
+- Bottleneck is
+- GOOD DATA ENGINEERS CREATING AMAZING PIPELINES
+- Structured data is usually smaller because it's less raw and more filtered
+
+![img-6.jpeg](img-6.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p007","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","6","7","→
+
+# AI GIVES US VISION INTO UNSTRUCTURED DATA
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"7dfc688d47438413:p008","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","7","8","# Types of Data
+
+text, video, audio
+85% of data
+
+![img-7.jpeg](img-7.jpeg)
+
+maps, api responses
+12% of data
+
+![img-8.jpeg](img-8.jpeg)
+
+tables
+3% of data
+
+![img-9.jpeg](img-9.jpeg)
+
+structure
+
+![img-10.jpeg](img-10.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p009","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","8","9","# What are we talking about today?
+
+→ How can we make use of unstructured data?
+→ How does Snowflake store unstructured data?
+→ How does Cortex help us with this? Why is AI document parsing awesome? Why does it suck?
+→ How do we model the outputs from unstructured processing?
+
+![img-11.jpeg](img-11.jpeg)"
+"7dfc688d47438413:p010","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","9","10","# How to get your data more structure?
+
+→
+
+- Unstructured Data needs to be simplified!
+- Video → sequence of images
+- Audio and Video → get transcripts
+- Image → get description (or OCR text)
+- Text data → turn into semi-structured data
+
+![img-12.jpeg](img-12.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p011","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","10","11","# How to get your data more structure?
+
+![img-13.jpeg](img-13.jpeg)"
+"7dfc688d47438413:p012","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","11","12","# How to get your data more structure?
+
+→
+
+# Metadata is what makes unstructured data meaningful!
+
+![img-14.jpeg](img-14.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p013","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","12","13","# How to get your data more structure?
+
+→
+
+- Getting transcripts
+- Do not transcribe MP4 files! Move to MP3 files and you Snowflake bill will thank you!
+- Do not transcribe large files over 1 GB! Split them up with something like ffmpeg!
+
+![img-15.jpeg](img-15.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p014","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","13","14","# How to get your data more structure?
+
+- Text Data
+- get sentiment
+- segment into a category
+- extract related entities and relationships
+- extract form data
+
+![img-16.jpeg](img-16.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p015","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","14","15","# How to get your data more structure?
+
+- Use Cortex functions!
+- AI_PARSE_DOCUMENT
+- OCR - simple: just get the text (fastest)
+- LAYOUT - make sense of the layout and tables
+- AGENTIC - make sense of layout, table, and images
+- AI_EXTRACT
+- AI_EMBED
+
+![img-17.jpeg](img-17.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p016","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","15","16","→
+
+These are great functions, but what if AI gets it wrong?
+
+This is when you need evaluations!
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p017","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","16","17","→
+
+# How do you evaluate AI?
+
+# You need a GROUND TRUTH TO COMPARE TO!
+
+![img-18.jpeg](img-18.jpeg)
+ground truth
+
+![img-19.jpeg](img-19.jpeg)
+
+![img-20.jpeg](img-20.jpeg)
+AI result
+
+![img-21.jpeg](img-21.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p018","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","17","18","→
+
+This seems simple, except HOW THE HELL DO YOU ACTUALLY GENERATE GROUND TRUTH?
+
+![img-22.jpeg](img-22.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p019","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","18","19","![img-23.jpeg](img-23.jpeg)
+Reliability
+
+![img-24.jpeg](img-24.jpeg)
+Synthetic Data Generation from structured outputs
+
+![img-25.jpeg](img-25.jpeg)
+source data extraction
+
+![img-26.jpeg](img-26.jpeg)
+Human labeling (with review)
+
+![img-27.jpeg](img-27.jpeg)
+multiple human experts label the same data
+
+![img-28.jpeg](img-28.jpeg)
+LLM-assisted labeling
+
+![img-29.jpeg](img-29.jpeg)
+
+![img-30.jpeg](img-30.jpeg)
+
+# Manual Effort
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p020","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","19","20","→
+
+Since we don't have billions of dollars to pay humans and experts, we will focus on two versions in today's lab:
+
+Synthetic Generation from Structured Inputs
+Source Data Extraction
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p021","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","20","21","→
+
+# AI parsing always generates a semi-structured output in JSON or VARIANT
+
+![img-31.jpeg](img-31.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p022","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","21","22","→
+
+# How do we model Semi-structured data?
+
+![img-32.jpeg](img-32.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p023","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","22","23","# Data Type Mapping
+
+→
+
+- Array (in Iceberg) ~~ Array (in Snowflake)
+- Map (in Iceberg) ~~ Map (in Snowflake)
+- Struct (in Iceberg) ~~ Object (in Snowflake)
+- Anything ~~ Variant (in Snowflake)
+
+![img-33.jpeg](img-33.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p024","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","23","24","# When to use Array
+
+→
+
+Array is great for **ORDINAL** data
+- Think document pages, calendar, positioning, ranking, etc
+
+Arrays are useful because indices can encode information without using additional bytes!
+
+Snowflake can do **ARRAY[VARIANT]**, Iceberg is more strict
+
+![img-34.jpeg](img-34.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p025","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","24","25","→
+
+# Object details
+
+Objects can be:
+
+- semi-structured (like JSON)
+- Every key is a VARCHAR, every value is a VARIANT (JUST LIKE JSON)
+- structured (like Iceberg Structs)
+- Every key is defined, every value is defined (cannot be semi-structured or VARIANT)
+- Fundamental limit = 16 mbs (MUCH LESS THAN ICEBERG)
+- This is why AI_PARSE_DOCUMENT cannot parse EXTREMELY LARGE documents
+
+![img-35.jpeg](img-35.jpeg)"
+"7dfc688d47438413:p026","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","25","26","# When to use Object
+
+Object in Snowflake is pretty flimsy.
+
+Use semi-structured when you're working with a data model that can change rapidly because it's essentially JSON
+
+Use structured objects when the data model has hardened more and you want more compression (vs higher level columns)
+
+![img-36.jpeg](img-36.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p027","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","26","27","When should you nest a column in an object/struct? →
+
+If you nest a column in an object/struct it says one or more of the following:
+
+- These columns are rarely used
+- These columns are part of a connected family but used infrequently enough to:
+- not be high-level columns
+- broken out into their own table
+
+![img-37.jpeg](img-37.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p028","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","27","28","→
+
+# The data model always implies the access pattern!
+
+Zach Wilson's DataExpert.io Boot Camp
+
+^{}[]"
+"7dfc688d47438413:p029","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","28","29","# When to use Map
+
+Iceberg v2 was less flexible.
+Think of Iceberg v2 as Snowflake’s less flexible, slower cousin (iceberg v3 supports variant data type btw)
+
+When using Map, keep it to one layer of nesting MAP<varchar, varchar="""">
+
+If you need multiple layers of nesting, using semi-structured Object would be a better approach!
+
+![img-38.jpeg](img-38.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp</varchar,>"
+"7dfc688d47438413:p030","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","29","30","# Maps are great when
+
+You have rapidly changing requirements that can fit into MAP[VARCHAR, VARCHAR] similar to semi-structured objects
+
+Maps compress better than semi-structured object since they have stronger guarantees!
+
+Zach Wilson's DataExpert.io Boot Camp
+
+→"
+"7dfc688d47438413:p031","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","30","31","# What is a VARIANT data type?
+
+Snowflake is very flexible about the data type of things.
+
+VARIANT is a “chameleon” data type. It’s whatever data type you want it to be!
+
+![img-39.jpeg](img-39.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p032","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","31","32","# The compression hierarchy
+
+The more specific the data type, the better the compression!
+
+In terms of compression rates, the general rule is:
+
+Structured Objects &gt; Map &gt; semi-structured objects &gt; Variant
+
+![img-40.jpeg](img-40.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"
+"7dfc688d47438413:p033","7dfc688d47438413","3388","unstructureddatamodelingonsnowflakeday1lecture-nov26","Unstructured Data Modeling on Snowflake Day 1 Lecture","w1d1.pdf","https://techcreator.s3.us-west-2.amazonaws.com/academy/2/course/3388/w1d1.pdf","unstructureddatamodelingonsnowflakeday1lecture-nov26/7dfc688d47438413/w1d1.pdf","7dfc688d474384133319ec6f50569c800e0bfa80278ffd616df751ee5224be7c","Cortex Snowflake Day 1","Zach Wilson","2026-11-17 04:29:06.000000000 Z","33","32","33","Let’s start the workshop!
+
+- After a 15-minute break,
+- We’ll be building a rich, unstructured data pipeline with Cortex, processing annual reports from big tech companies
+- Generating synthetic data to build evaluations for our parsing logic
+
+![img-41.jpeg](img-41.jpeg)
+
+Zach Wilson's DataExpert.io Boot Camp"

@@ -1,0 +1,19 @@
+"FAQ_ID","PROGRAM_ID","QUESTION","ANSWER","SORT_ORDER"
+"8","\N","When are live classes held?","We do live classes from 6-8 PM pacific time. We record everything and the recording is available within 8 hours of the live class","0"
+"9","\N","What is the refund policy?","Subscription and self-paced products are non-refundable
+
+Live boot camp products have this refund policy:
+- 25% processing fee for refund requests made within the first 7 days
+- 50% processing fee for refund requests made within the first 14 days
+- After 14 days, we offer no refunds","1"
+"55","\N","How to create Schema?","Go to the query page (https://www.dataexpert.io/query).
+and run the CREATE SCHEMA QUERY, which can be found under the Schema Info button.","2"
+"56","\N","How to get Access to Cloud Services?","Go to the Dashboard and click on the ""Go to Onboarding page"" button for the registered program.
+From there, all access can be activated.","3"
+"57","\N","How to updated Discord username?","Go to the page https://www.dataexpert.io/profile and update your details under Social Metadata.","4"
+"59","\N","How to activate GitHub for accessing DataExpert.io repos?","You need to update your GitHub username (example: https://www.github.com/[your_username]) in the dataexpert.io profile. Then you can try activating GitHub from the credentials tab.","4"
+"58","\N","How to update timezone?","Go to the page https://www.dataexpert.io/profile and update your details under Timezone","5"
+"60","\N","How to unsubscribe DataExpert.io email notifications?","You can disable the email notifications from the profile page.","7"
+"61","\N","Where the live classes held?","Live classes for lectures and labs take place on the Discord stages.
+Book club/ TA sessions happen on Google Meet.
+Links can be found on the Dashboard and schedule page(https://www.dataexpert.io/schedule)","7"

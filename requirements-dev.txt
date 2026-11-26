@@ -1,0 +1,5 @@
+# Local tests and python/check_api.py. Snowflake provides these inside procedures.
+requests>=2.32
+pypdf>=6.0
+pypdfium2>=5.0
+pillow>=12.0

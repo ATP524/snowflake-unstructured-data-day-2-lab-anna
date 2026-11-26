@@ -1,0 +1,5 @@
+"PROGRAM_ID","PROGRAM_NAME","PROGRAM_SLUG","DESCRIPTION","IS_ACTIVE","START_DATE","END_DATE"
+"735","AnalyticsExpert","analytics-expert","Master dbt, Snowflake, Iceberg, and Airflow — and become the analytics engineer every data team fights to hire.","false","\N","\N"
+"1","Data Engineer Interview Skills","data-engineering-boot-camp-v1","The first live boot camp offered by Zach Wilson in Spring 2023.","false","2023-04-17","2023-06-07"
+"803","InterviewExpert","interviewexpert-7116","Timed, role-specific mock interviews — SQL under pressure, data modeling, system design, behavioral and more. Graded the moment you submit.","false","\N","\N"
+"908","Senior AI Analytics Engineering Boot Camp","snowflake-dbt-analytics-engineering-boot-camp-4721","Master Snowflake, Coco AI Agents, Airflow and dbt and become a powerful AI analytics engineer","false","2026-11-16","2026-12-18"
